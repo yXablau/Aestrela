@@ -94,7 +94,6 @@ Melhor rota:
 ## 👨‍💻 Autor
 
 Pedro Henrique Pereira de Oliveira  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)
 
 ---
 
